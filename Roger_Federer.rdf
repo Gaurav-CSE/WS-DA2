@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns5="http://dbpedia.org/ontology/Person/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dct="http://purl.org/dc/terms/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Switzerland_at_the_2004_Summer_Olympics">
+    <dbp:flagbearer rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+    <dbo:flagBearer rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007_US_Open_(tennis)">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_Gerry_Weber_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014_Western_&amp;_Southern_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014_Gerry_Weber_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015_Western_&amp;_Southern_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007_Western_&amp;_Southern_Financial_Group_Masters_and_Women&#39;s_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federer_Express">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fedexpress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R_federer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015_Gerry_Weber_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2005_Western_&amp;_Southern_Financial_Group_Masters">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Federer">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/TennisPlayer" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Contestant109613191" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTennisPlayersAtThe2000SummerOlympics" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromBasel-Stadt" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOlympicSilverMedalistsForSwitzerland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Athlete109820263" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNon-governmentalOrganisationsBasedInSwitzerland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCharitiesBasedInSwitzerland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOrganisationsBasedInSwitzerland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfAfrikanerDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwissPeopleOfSouthAfricanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwissPeopleOfDutchDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwissPeopleOfFrenchDescent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUNICEFPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFrenchOpenChampions" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOlympicMedalistsInTennis" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHopmanCupCompetitors" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWimbledonChampions" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWorldNo.1TennisPlayers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q10833314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTennisPlayersAtThe2008SummerOlympics" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUSOpen(tennis)Champions" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Rival110533013" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTennisPlayersAtThe2004SummerOlympics" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Athlete" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Medalist110305062" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Player110439851" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Winner110782940" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMedalistsAtThe2008SummerOlympics" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTennisPlayersAtThe2012SummerOlympics" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWimbledonJuniorChampions" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TennisPlayer110701180" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/TennisPlayer" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Champion109906704" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMedalistsAtThe2012SummerOlympics" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwissPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Foundation108406486" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Charity108406619" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAustralianOpenChampions" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandSlam(tennis)ChampionsInMen&#39;sSingles" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FinancialInstitution108054721" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Athlete" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOlympicTennisPlayersOfSwitzerland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOlympicGoldMedalistsForSwitzerland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwissMaleTennisPlayers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChildren&#39;sCharities" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdfs:label xml:lang="zh">罗杰·费德勒</rdfs:label>
+    <rdfs:label xml:lang="ar">روجر فيدرير</rdfs:label>
+    <rdfs:label xml:lang="de">Roger Federer</rdfs:label>
+    <rdfs:label xml:lang="nl">Roger Federer</rdfs:label>
+    <rdfs:label xml:lang="pl">Roger Federer</rdfs:label>
+    <rdfs:label xml:lang="ru">Федерер, Роджер</rdfs:label>
+    <rdfs:label xml:lang="es">Roger Federer</rdfs:label>
+    <rdfs:label xml:lang="it">Roger Federer</rdfs:label>
+    <rdfs:label xml:lang="ja">ロジャー・フェデラー</rdfs:label>
+    <rdfs:label xml:lang="en">Roger Federer</rdfs:label>
+    <rdfs:label xml:lang="fr">Roger Federer</rdfs:label>
+    <rdfs:label xml:lang="pt">Roger Federer</rdfs:label>
+    <rdfs:comment xml:lang="zh">羅傑·費德勒（德语：Roger Federer，德语：[ˈfeːdərər]，1981年8月8日－），瑞士著名男子网球选手，生于瑞士巴塞尔，网壇史上最佳男子选手之一，其拥有17座大满贯单打桂冠为男子网坛之最，同时也创下连续237周单打世界排名第一的纪录。截止目前为止，他的世界排名第一总周数为302周。費德勒比肩拉沃、博格和桑普拉斯等传奇前辈，被认为是網球史上的GOAT（Greatest of All Time）。众多评论员、权威专家、退役和现役的球员都认为费德勒是网球历史上最伟大的球员，更被許多球迷視為「網球之神」。截至2015赛季结束后，费德勒世界排名第三，单打最高世界排名第一，其中包括连续237周独享球王宝座（2004.2.2－2008.8.17），超越原本美國名宿康諾斯的连续160週。他在2009年溫網後回归世界第一，持续48週。2012年7月9日，重奪温网冠军後，费德勒重新登上世界第一（第三度登顶），並以總週數287週超前了皮特·桑普拉斯的286週。2012年上海大師賽结束后，费德勒世界第一的总週数达到了300周，是公开赛年代以来第一位成為球王周數達到300的男子球員，其后定格为302周。费德勒有「瑞士特快車」、「費德勒特快車」、「瑞士指揮家」、「指揮家」、「熱狗王」和「費神」等封號。自從2004年起費德勒開始縱橫網壇後，對於關鍵分擁有絕佳的把握能力，大部分的比賽往往是直落盤數取勝，即使少部分的比賽面臨比數落後的情況，在危機來臨或面臨輸球邊緣時經常能化險為夷，在比賽中有「調整迅速」的特質。2003年7月6日，温网男单决赛，費德勒摘下個人的第一座大满贯单打桂冠，不久之后2004年2月，澳網封王之後便登上世界第一宝座，由此正式开启了传奇无比的费德勒时代，至今创下一些纪录仍由其保持。至今累計获得网球男子单打冠军87座，含大滿貫冠軍17座为世界之最，大師盃（年終賽）冠軍六座，大師賽冠軍24座等。费德勒也是网球公开赛年代第四位同一年里三夺大满贯者、第六位成就全满贯男單球員，以及第三位實現「爸爸級滿貫」的巨星。費德勒的打法风格为技术全面型风格，比如：底線相持、預判、接發球、截擊、切球上網、滑步等獨特的打法技術，因而在草地球场的表现尤為突出：温网男单决赛总计十场，含连续七年温网决赛；温网男单冠军七座为温网之最，且含温网五连冠也为温网之最，草地赛事连胜65场，公開賽年代最高草地勝率，均为网球史上最佳草地之王。其与同时代的另一位选手纳达尔之间的较量被誉为是网球史上最伟大的一对对手组合之一，费德勒与纳达尔对战史创下無數的經典戰役，其後與諾瓦克·喬科維奇與安迪·穆雷，與這兩位選手之间的较量，亦留下不少精采賽事，因此他們四人被大眾傳播媒體尊稱為「網壇四巨頭」，被誉为是网球史上的黄金年代。费德勒不僅在網球領域取得成功，亦為多項知名广告代言、響應賑災與進行慈善活動。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Roger Federer ([ˈfeːdərər] born 8 August 1981) is a Swiss professional tennis player who is currently ranked world No. 3 by the Association of Tennis Professionals (ATP). His accomplishments in professional tennis cause him to be popularly regarded as the greatest tennis player of all time. Federer turned professional in 1998 and has been continuously ranked in the top 10 since October 2002.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Roger Federer (Bazel, 8 augustus 1981) is een Zwitserse professionele tennisspeler, die als een van de beste mannelijke tennissers in de geschiedenis wordt beschouwd. Van begin 2004 tot halverwege 2008 domineerde Federer het mannentennis in het enkelspel. Hij won 87 enkeltitels in toernooien. In het dubbelspel won hij acht titels waaronder die van de Olympische Spelen in Peking samen met Stanislas Wawrinka.Ook anderen, onder wie Andre Agassi, Björn Borg, Boris Becker, Tim Henman, John McEnroe en Jacques Rogge, noemden hem de beste speler aller tijden.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ロジャー・フェデラー（Roger Federer [ˈrɔdʒər ˈfeːdərər]、1981年8月8日 - ）は、スイス・バーゼル出身の男子プロテニス選手。身長185cm、体重85kg。右利き、バックハンド・ストロークは片手打ち。テニスの教本のような理想的なフォームを持ち、あらゆるショットを流れるように駆使するプレースタイルから、最も完成度の高い選手と評されている。グランドスラム男子シングルス最多優勝・歴代最長世界ランキング1位・通算獲得歴代最多賞金など数々の記録を塗り替えてきたことから、史上最高のテニスプレーヤーとの呼び声が高い。スイス代表としても功績を残しており、北京五輪男子ダブルス金メダル、ロンドン五輪・男子シングルス銀メダル、2001年ホップマンカップ優勝、2014年デビスカップ優勝に貢献している。スポーツの各分野で活躍した選手を称えるローレウス世界スポーツ賞を2005年から2008年にかけて4度受賞し、競技の枠を超えて高い評価を受けているスポーツ選手である。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Roger Federer (Basileia, Suíça, 8 de agosto de 1981) é um tenista suíço, recordista do número de vitórias em torneios do Grand Slam. Com 17 torneios do Grand Slam, 24 Masters 1000 e 6 Masters Cup entre seus 88 torneios ATP, e um recorde de 302 semanas como número 1 mundial entre 2004 e 2012, Federer é considerado por diversos analistas esportivos, críticos de tênis e antigos tenistas como um dos melhores jogadores de tênis de todos os tempos . Como Agassi, Nadal e Rod Laver, Federer conseguiu fazer o Grand Slam na carreira em 4 superfícies, após vencer em Roland Garros em 2009, mas é o único a ter realizado três vezes o fato notável de vencer 3 dos 4 torneios do Grand Slam na mesma temporada (&quot;pequeno Slam&quot;).</rdfs:comment>
+    <rdfs:comment xml:lang="it">È stato il numero 1 al mondo per 237 settimane consecutive, record tuttora imbattuto, dal 2 febbraio 2004 al 17 agosto 2008. Ha riguadagnato la prima posizione in due occasioni distinte: la prima il 6 luglio 2009, che ha perso nuovamente il 6 giugno 2010, mentre la seconda l&#39;8 luglio 2012, vincendo il suo settimo titolo a Wimbledon. Durante quest&#39;ultimo periodo di permanenza ai vertici della classifica mondiale ha eguagliato e superato il primato di 286 settimane totali in vetta alla classifica ATP, sino a quel momento detenuto da Pete Sampras, arrivando a 302 settimane. Per il numero di titoli vinti e record conseguiti, l&#39;eccellente rendimento sia nel breve che nel lungo periodo, lo stile di gioco - efficacissimo su ogni superficie - ed il suo carattere, in campo e fuori, è riconosciuto d</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Roger Federer est un joueur de tennis suisse né le  à Bâle. Joueur professionnel depuis 1998, il détient le record de 302 semaines (5 ans et 9 mois et demi) passées à la première place du classement mondial de tennis ATP World Tour, ainsi que le record de 17 victoires dans les tournois du Grand Chelem. Il a terminé l&#39;année calendaire à la première place mondiale à cinq reprises (en 2004, 2005, 2006, 2007 et 2009) et a annoncé son intention de poursuivre sa carrière jusqu&#39;aux Jeux olympiques de Rio en 2016. En novembre 2015 à Paris, il annonce même avoir programmé sa saison 2017.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Roger Federer [ˈrɔdʒər ˈfeːdərər] (* 8. August 1981 in Basel; heimatberechtigt in Berneck) ist ein Schweizer Tennisspieler.In seiner bisherigen Karriere gewann Federer die Rekordanzahl von 17 Grand-Slam-Turnieren im Einzel und beendete die Jahre 2004, 2005, 2006, 2007 und 2009 an der Spitze der Tennis-Weltrangliste. Insgesamt gewann Federer 88 Titel im Einzel und acht im Doppel.Bereits zu aktiven Zeiten wird Federer von Tennisexperten zu den besten Spielern in der Geschichte dieses Sports gezählt und oftmals auch als bester Spieler aller Zeiten bezeichnet.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ро́джер Фе́дерер (нем. Roger Federer; родился 8 августа 1981 года в Базеле, Швейцария) — швейцарский профессиональный теннисист, бывшая первая ракетка мира в одиночном разряде. Ряд специалистов и спортсменов называют Федерера лучшим теннисистом в истории. Обладатель множества рекордов, включая 17 титулов на турнирах Большого шлема в мужском одиночном разряде и 302 недели в сумме на первом месте в мировом рейтинге (237 недель подряд).</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Roger Federer (ur. 8 sierpnia 1981 w Bazylei) – szwajcarski tenisista, zajmujący obecnie 3. miejsce w rankingu ATP, wicemistrz olimpijski w grze pojedynczej z Londynu (2012), mistrz olimpijski w grze podwójnej z Pekinu (2008), zdobywca Pucharu Davisa 2014.Status profesjonalny Federer otrzymał w roku 1998. Pierwszy mecz w zawodowym Tourze Szwajcar rozegrał na początku lipca tego samego roku w Gstaad. Przeciwnikiem Federera był Argentyńczyk Lucas Arnold Ker, a spotkanie zakończyło się porażką Szwajcara 4:6, 4:6.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">روجر فيدرير (بالألمانية: [ˈfe:dərər]; ولد في 8 اغسطس 1981) هو لاعب كرة مضرب سويسري محترف، وهو حالياً المصنف الثالث عالمياً برابطة محترفي كرة المضرب (بالإنجليزية: ATP). استطاع فيدرير البقاء ضمن أفضل عشرة مصنفين على العالم بشكل مستمر منذ أكتوبر 2002، وضمن أفضل عشرين مصنف منذ أبريل 2001.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Roger Federer (Basilea, Suiza, 8 de agosto de 1981) es un tenista suizo que actualmente ocupa la tercera posición en la clasificación de la ATP. Es dueño de numerosos récords conseguidos a través de 17 años de carrera profesional, entre los que destacan la mayor cantidad de semanas estando en el primer lugar de la clasificación ATP, con 302, superando la marca de Pete Sampras, quien estuvo un total de 286 semanas en dicha posición y la mayor cantidad de títulos de Grand Slam, con 17 trofeos en 27 finales, superando también a Sampras y a Rafael Nadal con 14. La mayoría de los analistas deportivos, autoridades deportivas y críticos del tenis, la prensa especializada, así como también los jugadores y exjugadores, consideran a Federer como el mejor tenista de todos los tiempos.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Big_Four_(tennis)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/73418278779906874903" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4r1orqtVqjRE237hj1Jayj5w" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01my95" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ロジャー・フェデラー" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ρότζερ_Φέντερερ" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cwhhn" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1426" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1426" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/IMBEWU" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Roger_Federer" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/78783058" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/로저_페더러" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Roger_Federer" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Roger_Federer?oldid=707320285" />
+    <ns5:height rdf:datatype="http://dbpedia.org/datatype/centimetre">185.0</ns5:height>
+    <dbo:abstract xml:lang="pl">Roger Federer (ur. 8 sierpnia 1981 w Bazylei) – szwajcarski tenisista, zajmujący obecnie 3. miejsce w rankingu ATP, wicemistrz olimpijski w grze pojedynczej z Londynu (2012), mistrz olimpijski w grze podwójnej z Pekinu (2008), zdobywca Pucharu Davisa 2014. Status profesjonalny Federer otrzymał w roku 1998. Pierwszy mecz w zawodowym Tourze Szwajcar rozegrał na początku lipca tego samego roku w Gstaad. Przeciwnikiem Federera był Argentyńczyk Lucas Arnold Ker, a spotkanie zakończyło się porażką Szwajcara 4:6, 4:6. Federer uważany jest za najlepszego tenisistę w historii dyscypliny. Ma w swoim dorobku rekordowe 17 zwycięstw w turniejach wielkoszlemowych. W Australian Open triumfował w latach 2004, 2006, 2007 i 2010, we francuskim Roland Garros zwyciężył w 2009 roku, na kortach Wimbledonu wygrywał w latach 2003, 2004, 2005, 2006, 2007, 2009 i 2012, a w US Open w sezonach 2004, 2005, 2006, 2007 i 2008. Dodatkowo Szwajcar sześciokrotnie został mistrzem kończącego sezon turnieju ATP World Tour Finals (lata 2003, 2004, 2006, 2007, 2010, 2011). Ponadto dziesięciokrotnie dochodził do finałów rozgrywek wielkoszlemowych i cztery razy do finału ATP World Tour Finals. W sierpniu 2012 roku wywalczył srebrny medal igrzysk olimpijskich w Londynie, po przegranym finale z Andym Murrayem. Federer w przeciągu swojej kariery wygrał 88 turniejów rangi ATP World Tour w grze pojedynczej oraz osiągnął 48 finałów. Jako trzeci tenisista w historii Ery Open doszedł do granicy tysiąca zwycięskich meczów. W grze podwójnej Federer jest złotym medalistą igrzysk olimpijskich w Pekinie z roku 2008. Wspólnie ze Stanislasem Wawrinką pokonali w finałowym meczu Szwedów Simona Aspelina i Thomasa Johanssona. W deblu Szwajcar ma na koncie 8 turniejowych zwycięstw i 6 finałów. W sezonie 2014 Federer zdobył ze Szwajcarią historyczny, pierwszy dla tego kraju Puchar Davisa, po pokonaniu w finale 3:1 reprezentacji Francji. Po wygraniu Australian Open z 2004 roku, dnia 2 lutego, awansował na 1. pozycję w światowym rankingu. Przez kolejne 237 tygodni był na szczycie listy (do 11 sierpnia 2008 roku). Dnia 6 lipca 2009 roku ponownie został liderem rankingu na okres 48 tygodni. Po dwóch latach, 9 lipca 2012 roku, Federer ponownie objął prowadzenie w rankingu czym najpierw wyrównał, a w następnym tygodniu pobił rekord 286 tygodni jako nr 1 należący do Pete&#39;a Samprasa. Do dnia 5 listopada 2012 roku, kiedy na pozycji lidera zastąpił go Novak Đoković, przewodził stawce tenisistów przez rekordowe 302 tygodnie.</dbo:abstract>
+    <dbo:abstract xml:lang="it">È stato il numero 1 al mondo per 237 settimane consecutive, record tuttora imbattuto, dal 2 febbraio 2004 al 17 agosto 2008. Ha riguadagnato la prima posizione in due occasioni distinte: la prima il 6 luglio 2009, che ha perso nuovamente il 6 giugno 2010, mentre la seconda l&#39;8 luglio 2012, vincendo il suo settimo titolo a Wimbledon. Durante quest&#39;ultimo periodo di permanenza ai vertici della classifica mondiale ha eguagliato e superato il primato di 286 settimane totali in vetta alla classifica ATP, sino a quel momento detenuto da Pete Sampras, arrivando a 302 settimane. Per il numero di titoli vinti e record conseguiti, l&#39;eccellente rendimento sia nel breve che nel lungo periodo, lo stile di gioco - efficacissimo su ogni superficie - ed il suo carattere, in campo e fuori, è riconosciuto da tennisti, critici ed appassionati, come il miglior giocatore della storia di questo sport. Detiene il record di titoli in singolare nei tornei del Grande Slam (17) e ATP Finals (6). Nel 2004 lo svizzero è diventato il primo giocatore dal 1988 a vincere tre tornei del Grande Slam nello stesso anno (gli Open d&#39;Australia, il Torneo di Wimbledon e gli Open degli Stati Uniti); ha poi ripetuto l&#39;exploit una seconda e una terza volta nel 2006 e nel 2007, diventando l&#39;unico giocatore nella storia a realizzare quest&#39;impresa. Nel 2007, vincendo il suo terzo titolo agli Australian Open, è diventato l&#39;unico tennista a essersi imposto in tre diversi tornei del Grande Slam almeno tre volte. Al torneo di Wimbledon 2012 stabilisce tre primati: il 4 luglio, battendo il russo Michail Južnyj, raggiunge la 32ª semifinale in un torneo del Grande Slam, superando così Jimmy Connors; il 6 luglio, con il successo su Novak Đoković in semifinale, raggiunge la sua ottava finale nel torneo londinese, l&#39;unico a riuscirci nell&#39;era Open; due giorni dopo riesce a trionfare per la settima volta sconfiggendo il britannico Andy Murray con il punteggio di 4–6, 7–5, 6–3, 6–4 ed eguagliando così William Renshaw e Pete Sampras. È uno dei sette giocatori della storia del tennis ad aver completato il Career Grand Slam (insieme a Fred Perry, Don Budge, Roy Emerson, Rod Laver, Andre Agassi e Rafael Nadal), traguardo raggiunto il 7 giugno 2009 con la vittoria nel Roland Garros. Ad oggi ha conquistato in totale 88 titoli in singolare, compresi 24 ATP World Tour Masters 1000. In carriera ha inoltre conquistato due medaglie olimpiche: ai Giochi Olimpici di Pechino 2008 si è aggiudicato l&#39;oro nel doppio in compagnia del connazionale Stanislas Wawrinka, mentre a Londra 2012 ha conquistato l&#39;argento nel singolare. Nelle competizioni a squadre ha trionfato nel 2001 in coppia con Martina Hingis nella Hopman Cup, una competizione riservata a squadre miste, e nel 2014 in Coppa Davis, ottenendo il punto decisivo nel singolare contro il francese Richard Gasquet che ha permesso alla squadra svizzera di Coppa Davis di conquistare il suo primo titolo nel torneo. Nel 2015, nel torneo australiano di Brisbane, raggiunge il traguardo delle 1000 vittorie in carriera. Nella storia del tennis, solo due tennisti erano riusciti in quest&#39;impresa, Jimmy Connors (1253) e Ivan Lendl (1071). Il 21 gennaio 2016, battendo Grigor Dimitrov agli Australian Open diventa il primo giocatore maschile a vincere 300 partite negli Slam. Roger vive in Svizzera, nella piccola cittadina di Wollerau, ed è il tennista più pagato al mondo, nonché il 5° fra tutti gli sportivi, con un guadagno nel 2014 pari a 67 milioni di dollari, secondo quanto riportato dalla rivista Forbes.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Roger Federer ([ˈfeːdərər] born 8 August 1981) is a Swiss professional tennis player who is currently ranked world No. 3 by the Association of Tennis Professionals (ATP). His accomplishments in professional tennis cause him to be popularly regarded as the greatest tennis player of all time. Federer turned professional in 1998 and has been continuously ranked in the top 10 since October 2002. Federer holds several records of the Open Era: holding the world No. 1 position for 302 weeks (including 237 consecutive weeks); winning 17 Grand Slam singles titles; reaching each Grand Slam final at least five times (an all-time record); and reaching the Wimbledon final ten times. He is among the seven men (and among the four in Open Era) to capture a career Grand Slam. Federer shares an Open Era record for most titles at Wimbledon with Pete Sampras (7) and at the US Open with Jimmy Connors and Sampras (5). Federer has reached 27 men&#39;s singles Grand Slam finals, including 10 in a row from the 2005 Wimbledon Championships to the 2007 US Open, both statistics being records. He also appeared in 18 of 19 finals from the 2005 Wimbledon through to the 2010 Australian Open. He reached the semifinals at 23 consecutive Grand Slam tournaments, from the 2004 Wimbledon Championships through the 2010 Australian Open. At the 2016 Australian Open, he played in a record 65th consecutive Grand Slam tournament, reached a record 47th Grand Slam quarterfinal and a record 39th Grand Slam semifinal. Earlier at the 2015 US Open, he reached a record 27th Grand Slam final. Also earlier at the 2013 French Open, Federer reached a record 36th consecutive Grand Slam quarterfinal. Federer has won the most matches in Grand Slams (302) and is the first to record 65+ wins at each Grand Slam tournament. Federer&#39;s ATP tournament records include winning a record six ATP World Tour Finals, playing in the finals at all nine ATP Masters 1000 tournaments (a record shared with Djokovic and Nadal), and having won the most prize money of any player in history. He also won the Olympic gold medal in doubles with his compatriot Stan Wawrinka at the 2008 Summer Olympic Games and the Olympic silver medal in singles at the 2012 Summer Olympic Games. Representing Switzerland, he was a part of the 2014 winning Davis Cup team. He spent eight years (2003–2010) continuously in the top 2 in the year-end men&#39;s rankings and ten (2003–2012) in the top 3. He was named the Laureus World Sportsman of the Year for a record four consecutive years (2005–2008).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Roger Federer (Basilea, Suiza, 8 de agosto de 1981) es un tenista suizo que actualmente ocupa la tercera posición en la clasificación de la ATP. Es dueño de numerosos récords conseguidos a través de 17 años de carrera profesional, entre los que destacan la mayor cantidad de semanas estando en el primer lugar de la clasificación ATP, con 302, superando la marca de Pete Sampras, quien estuvo un total de 286 semanas en dicha posición y la mayor cantidad de títulos de Grand Slam, con 17 trofeos en 27 finales, superando también a Sampras y a Rafael Nadal con 14. La mayoría de los analistas deportivos, autoridades deportivas y críticos del tenis, la prensa especializada, así como también los jugadores y exjugadores, consideran a Federer como el mejor tenista de todos los tiempos. Federer ha ganado un número récord de 17 Grand Slam en individuales, la mayor cantidad de majors que cualquier jugador varón de la historia haya logrado: Es uno de los siete jugadores masculinos en lograr el Grand Slam, y uno de los tres (junto a Andre Agassi y Rafael Nadal) en hacerlo en la era abierta y en tres superficies diferentes (tierra batida, hierba y pista dura). Es el único jugador masculino en la historia del tenis en haber llegado al menos a cinco finales en cada uno de los Grand Slam, y al menos a 7 semifinales en cada uno. Federer ha participado en 27 finales de Grand Slam, hecho que no tiene precedentes, de las que 10 fueron de manera consecutiva, y estuvo en 18 de 19 finales de Grand Slam desde Wimbledon 2005 hasta el Abierto de Australia 2010, siendo el Abierto de Australia 2008 la única excepción. También llegó por lo menos hasta las semifinales de un Grand Slam desde Wimbledon 2004 hasta el Abierto de Australia 2010, acumulando 23 semifinales consecutivas, de 38 totales, además hasta Roland Garros 2013, acumuló 36 cuartos de final consecutivos, totalizando 47 no consecutivos, todos éstos récords. El suizo ostenta el récord de haber ganado más torneos de ATP World Tour Finals, con un total de seis títulos en diez finales. Posee la marca de 24 títulos, en 42 finales de torneos ATP World Tour Masters 1000, sólo siendo superado por Rafael Nadal con 27, y Novak Djokovic con 26. Es el tenista que más veces ha ganado el Masters de Cincinnati con 7 títulos y el Masters de Indian Wells con 4 al igual que Novak Djokovic. También suma 16 títulos en torneos ATP 500 y 24 ATP 250, totalizando 88 títulos en 135 finales, sólo por detrás de Jimmy Connors e Ivan Lendl en la historia de la ATP. Representando a Suiza ganó la medalla de oro olímpica en dobles con su compatriota Stanislas Wawrinka en los Juegos Olímpicos de Pekín 2008, y la medalla de plata en individuales en los Juegos Olímpicos de Londres 2012. También ganó la Copa Davis 2014 tras vencer en la final a Francia, dándole a su país su primera copa. Federer ha participado en diecisiete temporadas del ATP World Tour, y en cinco de ellas ha finalizado como número uno del ránking ATP, (en las temporadas 2004, 2005, 2006, 2007, y 2009), igualando la marca de Jimmy Connors, sólo superados por Pete Sampras con seis. Además finalizó cinco veces como número dos, (en las temporadas 2003, 2008, 2010, 2012, 2014) convirtiéndolo en el único tenista de la historia en terminar diez temporadas entre los dos primeros puestos del ránking. Además finalizó dos veces en el tercer puesto (en 2011 y 2015), y dos veces en el sexto puesto (en 2002 y 2013), completando catorce temporadas consecutivas entre los seis mejores del mundo. Además es el tercer tenista con más victorias en la historia de la ATP (1066), sólo por detrás de Jimmy Connors e Ivan Lendl, pero es el líder absoluto de victorias en todos los torneos de elite tales como los Grand Slam (301), los ATP World Tour Finals (52), los Masters 1000 (327), y en los Juegos Olímpicos (13), así como también ante rivales entre los Top 10 (197), y en pistas duras (660). En el 2011, fue elegido como el segundo ser humano más confiable y respetado del mundo, solo superado por el fallecido en 2013 Nelson Mandela. Como resultado del éxito de Federer en el tenis, fue nombrado deportista Laureus del año por ocho años consecutivos (2000-2008). Además, fue nombrado por la Asociación de Tenistas Profesionales como el mejor tenista de la década (2000-2010).También fue elegido por el periódico &quot;Marca&quot; como el mejor deportista de la misma década. A menudo, se lo conoce a Federer como &quot;Federer Express&quot;, o &quot;Fed Express&quot; y &quot;FedEx&quot; de manera abreviada. También se lo conoce como &quot;The Swiss Master&quot;, o simplemente &quot;Maestro&quot;. En 2011, Federer se clasificó en el puesto número 25 en la lista de Forbes Celebrity 100. En noviembre de 2012, según el Ranking de Forbes, Roger Federer fue catalogado junto a su amigo y golfista Tiger Woods como el deportista más valioso del mundo. Federer ha sido entrenado por Adolf Kacovsky (1991), Peter Carter (1991-2000), Peter Lundgren (2000-03), Tony Roche (2006-07), José Higueras (2008), Paul Annacone (2010-13), Stefan Edberg (2014-2015), y actualmente por Severin Lüthi desde 2007, e Ivan Ljubicic desde 2016.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Roger Federer est un joueur de tennis suisse né le à Bâle. Joueur professionnel depuis 1998, il détient le record de 302 semaines (5 ans et 9 mois et demi) passées à la première place du classement mondial de tennis ATP World Tour, ainsi que le record de 17 victoires dans les tournois du Grand Chelem. Il a terminé l&#39;année calendaire à la première place mondiale à cinq reprises (en 2004, 2005, 2006, 2007 et 2009) et a annoncé son intention de poursuivre sa carrière jusqu&#39;aux Jeux olympiques de Rio en 2016. En novembre 2015 à Paris, il annonce même avoir programmé sa saison 2017. Roger Federer a gagné à ce jour 88 titres, dont 23 tournois majeurs et 24 Masters 1000. Son doublé Roland-Garros-Wimbledon en 2009 lui a permis de réaliser le Grand Chelem en carrière sur quatre surfaces différentes avant de le réaliser sur cinq surfaces différentes en remportant l&#39;Open d&#39;Australie 2010 puis de battre le record anciennement détenu par Pete Sampras sur le nombre de victoires en tournois du grand chelem (14). Vice-champion olympique à Londres en 2012, il avait gagné, quelques semaines plus tôt, le tournoi de Wimbledon, égalant ainsi, dans l&#39;ère Open du tennis, le record de sept couronnements à Londres jusqu&#39;alors détenu par le seul Pete Sampras et augmentant son record en Grand Chelem pour le porter à dix-sept titres. Il est le seul joueur de l&#39;histoire du tennis à avoir gagné cinq fois de suite deux tournois du Grand Chelem (le tournoi de Wimbledon et l&#39;US Open) et réalisé par ailleurs trois fois le petit Chelem (en 2004, 2006 et 2007). Il se situe à la seconde position des joueurs ayant remporté le plus grand nombre de titres majeurs en simple de toute l&#39;histoire du tennis avec 23 trophées, à deux unités de Ken Rosewall avec 25 trophées. Il est également le seul homme à être allé en finale de chaque tournoi du Grand Chelem au moins cinq fois, et le seul à avoir remporté 6 fois la Masters Cup en fin d&#39;année. Parmi ses nombreux records, font partie des plus marquants ses dix finales consécutives, vingt-trois demi-finales consécutives et trente-six quarts de finale consécutifs dans les tournois du Grand Chelem. Enfin, en 2014, il remporte la Coupe Davis avec la Suisse, en battant l&#39;équipe de France au stade Pierre Mauroy à Lille. Un tel palmarès amène de très nombreux observateurs, joueurs et spécialistes à le considérer comme le plus grand joueur de tennis de tous les temps.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Roger Federer (Basileia, Suíça, 8 de agosto de 1981) é um tenista suíço, recordista do número de vitórias em torneios do Grand Slam. Com 17 torneios do Grand Slam, 24 Masters 1000 e 6 Masters Cup entre seus 88 torneios ATP, e um recorde de 302 semanas como número 1 mundial entre 2004 e 2012, Federer é considerado por diversos analistas esportivos, críticos de tênis e antigos tenistas como um dos melhores jogadores de tênis de todos os tempos . Como Agassi, Nadal e Rod Laver, Federer conseguiu fazer o Grand Slam na carreira em 4 superfícies, após vencer em Roland Garros em 2009, mas é o único a ter realizado três vezes o fato notável de vencer 3 dos 4 torneios do Grand Slam na mesma temporada (&quot;pequeno Slam&quot;). Em 2004, alcançou a liderança do ranking da Associação dos Tenistas Profissionais (ATP) pela primeira vez, posição que conservou por 237 semanas consecutivamente, um novo recorde mundial. Depois de perder a posição para Rafael Nadal, conseguiu recuperá-la em 5 de julho de 2009, após vencer o torneio de Wimbledon e se consagrar como o maior campeão de Grand Slams. Ao todo, até perder sua posição de número 1 mundial, Federer havia completado 285 semanas no posto, a uma semana do recorde absoluto de Pete Sampras de 286 semanas. Em 2012, ao vencer o torneio de Wimbledon pela sétima vez, eliminando o então número 1 mundial Novak Djokovic na semifinal, voltou a alcançar a liderança do ranking da Associação dos Tenistas Profissionais (ATP), posição que manteve durante 17 semanas. Este feito permitiu-lhe igualar e, consequentemente, quebrar o recorde de Pete Sampras, somando um total de 302 semanas no topo da classificação mundial. O status de Federer deriva dos seus numerosos recordes, entre os quais 17 títulos de Grand Slam e um career Grand Slam (vitória nos quatro torneios do Grand Slam, recorde compartilhado com Fred Perry 1933-1934-1935, Donald Budge 1937-1938, Rod Laver 1960-1961-1962, Roy Emerson 1961-1963-1964, Andre Agassi 1992-1994-1995-1999 e Rafael Nadal 2005-2008-2009-2010). Federer tem ainda o recorde de 24 finais de Grand Slam disputadas e participação em 23 semifinais consecutivas de Grand Slam, série iniciada no torneio de Wimbledon de 2004 e encerrada no Aberto da França de 2010, quando foi eliminado nas quartas-de-final, totalizando seis anos consecutivos de participações em semifinais de torneios do Grand Slam. Em resultado de seus sucessos, Federer conquistou o Laureus World Sportsman of the Year por quatro anos consecutivos (2005–08). Federer detém também o recorde de conquistas no torneio ATP World Tour Finals, que reúne no final de cada ano, os oito tenistas mais bem classificados no ranking da ATP, com 6 títulos. Em 31 de agosto de 2013, ao vencer a partida da 3ª rodada do US Open, atingiu a marca de 300 partidas em nível Grand Slam e 260 vitórias nesses torneios, as maiores da Era Aberta da ATP. Ao vencer a edição de 2014 do torneio de Halle, chegou ao número de 1178 partidas disputadas como profissional em simples (4ª maior marca da história), ultrapassando André Agassi, que disputou 1144 partidas e se aproximando de Guillermo Vilas (1208 partidas).[carece de fontes] Fez parte da equipe suíça campeã da Copa Davis de 2014. Na decisão, ele e seus compatriotas venceram os tenistas que representavam a França por 3 a 1. Desta forma, conquistou o único título que faltava em sua carreira. Somente ele e Agassi conquistaram o título dos quatro Grand Slams, a Copa Davis, a medalha de ouro olímpica e o título das Finais da ATP (antiga Masters Cup). E no dia 11 de janeiro de 2015 a conquista do título do ATP 250 de Brisbane na Austrália, no seu primeiro torneio e primeira final da temporada, coincidiu com a milésima vitória de partidas pela Associação de Tenistas Profissionais da carreira de Federer. Ao vencer o tenista canadense Milos Raonic o suíço entrou para o seleto grupo de tenistas com mil vitórias, tornando-se o terceiro tenista com maior número de vitórias pela ATP de todos os tempos, atrás apenas de Jimmy Connors (1242) e Ivan Lendl (1071). Além disso, este título lhe rendeu mais um recorde, o de vencer pelo menos um torneio em 15 anos consecutivos.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">روجر فيدرير (بالألمانية: [ˈfe:dərər]; ولد في 8 اغسطس 1981) هو لاعب كرة مضرب سويسري محترف، وهو حالياً المصنف الثالث عالمياً برابطة محترفي كرة المضرب (بالإنجليزية: ATP). استطاع فيدرير البقاء ضمن أفضل عشرة مصنفين على العالم بشكل مستمر منذ أكتوبر 2002، وضمن أفضل عشرين مصنف منذ أبريل 2001. العديد من المعلقين الرياضيين والنقاد ولاعبين سابقين وحاليين يعتبرون فيدرير أعظم لاعب كرة مضرب على مر العصور.لدى فيدرير أرقاماً قياسية عالمية عدة ينفرد بها في العصر المفتوح: البقاء في صدارة التصنيف العالمي لمدة 302 اسبوع، بما في ذلك 237 اسبوع متتالي في المركز الأول بين 2004-2008؛ الحائز على 17 لقب من بطولات الجراند سلام لفردي الرجال؛ الوصول إلى المباراة النهائية خمس مرات على الأقل في كل بطولة من البطولات الأربع الكبرى؛ والوصول إلى نهائي بطولة ويمبلدون تسع مرات. فهو واحد من سبعة رجال، ومن بين أربعة في العصر المفتوح فاز بالبطولات الأربعة الكبرى. كما يحمل فيدرير الرقم القياسي لأكثر من فاز ببطولة ويمبلدون مع الأمريكي بيت سامبراس بسبعة ألقاب، وفي بطولة الولايات المتحدة المفتوحة مع جيمي كونورز وسامبراس بخمسة.وقد تمكن فيدرير من الوصول إلى المباراة النهائية لفردي الرجال في بطولات الجراند سلام 26 مرة، منها 10 مرات متتالية، وقد وصل للنهائي 18 من أصل 19 مرة من بطولة ويمبلدون 2005 حتى أستراليا المفتوحة 2010. فيدرير اللاعب الوحيد الذي تمكن من الوصول للدور نصف النهائي 23 مرة على التوالي في بطولات الجراند سلام، من عام 2004 من خلال بطولة ويمبلدون وحتى عام 2010 في أستراليا المفتوحة. في بطولة ويمبلدون 2014، لعب فيدرير بطولته المتتالية رقم 59 في البطولات الأربعة الكبرى، حيث وصل للدور ربع النهائي للمرة 43 في مسيرته (معززاً لرقمه السابق 42). يملك فيدرير رقماً قياسياً في الوصول 36 مرة إلى دور نصف النهائي في الجراند سلام، ولديه 25 وصول للمباراة النهائية. في وقت سابق من بطولة فرنسا المفتوحة 2013، حقق فيدرير رقماً قياسياً بالوصول للدور ربع النهائي للمرة 36 على التوالي في البطولات الأربع الكبرى. يملك فيدرير الرقم الأكبر في عدد الفوز بالمباريات في الجراند سلام بـ 279 انتصاراً في فردي الرجال، وهو اللاعب الوحيد الذي لديه أكثر من 60 فوز في كل بطولة من بطولات الجراند سلام الأربعة (70+ فوز في 4/3 بطولات).من بين الأرقام القياسية التي يحملها فيدرير في رابطة محترفي كرة المضرب، الفوز بستة ألقاب في نهائيات الجولة العالمية لرابطة محترفي التنس, كما أنه تمكن من لعب جميع نهائيات سلسلة بطولات الماسترز 1000 نقطة التسعة (وهو رقم قياسي مشترك مع دجوكوفيتش ونادال). فيدرير هو صاحب أعلى رصيد مالي من بين لاعبي التنس، حيث وصلت الجوائز المالية التي تحصل عليها لأكثر من 80 مليون دولار أمريكي. كما فاز بالميدالية الذهبية في زوجي كرة المضرب للرجال في الألعاب الأولمبية في بكين عام 2008 إلى جانب مواطنه ستانيسلاس فافرينكا، وتحصل على الميدالية الفضية في فردي الرجال في الألعاب الأولمبية في لندن عام 2012. قضى فيدرير ثماني سنوات (2003-2010) بشكل مستمر بين المركزين الأول والثاني في التصنيف العالمي، وعشرة سنوات (2003-2012) في الثلاث مراكز الأولى. لقد كان فيدرير لاعب كرة المضرب الأول، ذكر أو انثى الذي يستطيع أن يكسب أكثر من 50 مليون دولار من الجوائز المالية.وقد فاز فيدرير بجائزة اللاعب المفضل لدى مشجعي موقع رابطة المحترفين (بالإنجليزية: ATPWorldTour.com) اثني عشر مرة على التوالي (2003-2014)، وجائزة ستيفان إدبرغ للروح الرياضية (التي يتم التصويت لها من قبل اللاعبين) عشر مرات (2004-2009، 2011-2014)، حيث تشير هذه الجوائز إلى الإحترام والشعبية الكبيرة التي امتلكها فيدرير، كما فاز بجائزة آرثر آش الإنسانية مرتين في عامي 2006 و2013. وفاز بجائزة لوريوس العالمية عن أفضل رياضي في العالم أربع مرات متتالية (2005-2008)، وهو رقم قياسي. ويلقب فيدرير في بعض الأحيان بفيدرير إكسبريس، اختصاراً للتعبير عن البنك الاحتياطي الفيدرالي أو فيديكس، ويلقب أيضاً بالمايسترو السويسري، أو المايسترو.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">羅傑·費德勒（德语：Roger Federer，德语：[ˈfeːdərər]，1981年8月8日－），瑞士著名男子网球选手，生于瑞士巴塞尔，网壇史上最佳男子选手之一，其拥有17座大满贯单打桂冠为男子网坛之最，同时也创下连续237周单打世界排名第一的纪录。截止目前为止，他的世界排名第一总周数为302周。費德勒比肩拉沃、博格和桑普拉斯等传奇前辈，被认为是網球史上的GOAT（Greatest of All Time）。众多评论员、权威专家、退役和现役的球员都认为费德勒是网球历史上最伟大的球员，更被許多球迷視為「網球之神」。截至2015赛季结束后，费德勒世界排名第三，单打最高世界排名第一，其中包括连续237周独享球王宝座（2004.2.2－2008.8.17），超越原本美國名宿康諾斯的连续160週。他在2009年溫網後回归世界第一，持续48週。2012年7月9日，重奪温网冠军後，费德勒重新登上世界第一（第三度登顶），並以總週數287週超前了皮特·桑普拉斯的286週。2012年上海大師賽结束后，费德勒世界第一的总週数达到了300周，是公开赛年代以来第一位成為球王周數達到300的男子球員，其后定格为302周。费德勒有「瑞士特快車」、「費德勒特快車」、「瑞士指揮家」、「指揮家」、「熱狗王」和「費神」等封號。自從2004年起費德勒開始縱橫網壇後，對於關鍵分擁有絕佳的把握能力，大部分的比賽往往是直落盤數取勝，即使少部分的比賽面臨比數落後的情況，在危機來臨或面臨輸球邊緣時經常能化險為夷，在比賽中有「調整迅速」的特質。2003年7月6日，温网男单决赛，費德勒摘下個人的第一座大满贯单打桂冠，不久之后2004年2月，澳網封王之後便登上世界第一宝座，由此正式开启了传奇无比的费德勒时代，至今创下一些纪录仍由其保持。至今累計获得网球男子单打冠军87座，含大滿貫冠軍17座为世界之最，大師盃（年終賽）冠軍六座，大師賽冠軍24座等。费德勒也是网球公开赛年代第四位同一年里三夺大满贯者、第六位成就全满贯男單球員，以及第三位實現「爸爸級滿貫」的巨星。費德勒的打法风格为技术全面型风格，比如：底線相持、預判、接發球、截擊、切球上網、滑步等獨特的打法技術，因而在草地球场的表现尤為突出：温网男单决赛总计十场，含连续七年温网决赛；温网男单冠军七座为温网之最，且含温网五连冠也为温网之最，草地赛事连胜65场，公開賽年代最高草地勝率，均为网球史上最佳草地之王。其与同时代的另一位选手纳达尔之间的较量被誉为是网球史上最伟大的一对对手组合之一，费德勒与纳达尔对战史创下無數的經典戰役，其後與諾瓦克·喬科維奇與安迪·穆雷，與這兩位選手之间的较量，亦留下不少精采賽事，因此他們四人被大眾傳播媒體尊稱為「網壇四巨頭」，被誉为是网球史上的黄金年代。费德勒不僅在網球領域取得成功，亦為多項知名广告代言、響應賑災與進行慈善活動。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ро́джер Фе́дерер (нем. Roger Federer; родился 8 августа 1981 года в Базеле, Швейцария) — швейцарский профессиональный теннисист, бывшая первая ракетка мира в одиночном разряде. Ряд специалистов и спортсменов называют Федерера лучшим теннисистом в истории. Обладатель множества рекордов, включая 17 титулов на турнирах Большого шлема в мужском одиночном разряде и 302 недели в сумме на первом месте в мировом рейтинге (237 недель подряд). Непрерывно входит в топ-10 мирового рейтинга в одиночном разряде с октября 2002 года.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Roger Federer [ˈrɔdʒər ˈfeːdərər] (* 8. August 1981 in Basel; heimatberechtigt in Berneck) ist ein Schweizer Tennisspieler. In seiner bisherigen Karriere gewann Federer die Rekordanzahl von 17 Grand-Slam-Turnieren im Einzel und beendete die Jahre 2004, 2005, 2006, 2007 und 2009 an der Spitze der Tennis-Weltrangliste. Insgesamt gewann Federer 88 Titel im Einzel und acht im Doppel. Federer ist der einzige Spieler, der dreimal in seiner Karriere drei Grand-Slam-Titel in einer Saison gewann. Dies gelang ihm 2004, 2006 und 2007. Zudem ist der Schweizer einer von sieben Spielern, die im Laufe ihrer Karriere alle vier Grand-Slam-Turniere mindestens einmal gewannen, und neben William Renshaw und Pete Sampras mit sieben Titeln Rekordsieger des Tennisturniers von Wimbledon. Federer wurde in den Jahren 2005, 2006, 2007 und 2008 zum Weltsportler des Jahres gewählt. Bereits zu aktiven Zeiten wird Federer von Tennisexperten zu den besten Spielern in der Geschichte dieses Sports gezählt und oftmals auch als bester Spieler aller Zeiten bezeichnet.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Roger Federer (Bazel, 8 augustus 1981) is een Zwitserse professionele tennisspeler, die als een van de beste mannelijke tennissers in de geschiedenis wordt beschouwd. Van begin 2004 tot halverwege 2008 domineerde Federer het mannentennis in het enkelspel. Hij won 87 enkeltitels in toernooien. In het dubbelspel won hij acht titels waaronder die van de Olympische Spelen in Peking samen met Stanislas Wawrinka. Op 7 juni 2009 won Federer voor het eerst Roland Garros, waardoor hij als zesde mannelijke tennisser de Career Slam bereikte. Sinds zondag 5 juli 2009 heeft hij ook het hoogste aantal grandslamtoernooien gewonnen in de geschiedenis van de sport. Hij won die dag voor de zesde keer Wimbledon en daarmee zijn vijftiende Grand Slam, waardoor hij Pete Sampras achter zich liet. Na zijn winst op Wimbledon 2012 heeft hij 17 Grand Slam-overwinningen behaald. Daarnaast speelde hij in een recordaantal van 27 Grand Slam-finales. Tussen Wimbledon 2005 en de Australian Open 2010 haalde hij 18 Grand Slam-finales in 19 opeenvolgende toernooien, en tijdens Roland Garros 2013 haalde hij voor de 36ste keer op rij de kwartfinale van een Grandslamtoernooi. Ook anderen, onder wie Andre Agassi, Björn Borg, Boris Becker, Tim Henman, John McEnroe en Jacques Rogge, noemden hem de beste speler aller tijden. Federer was een recordaantal van 302 weken de nummer 1 van de wereld. Bovendien was hij een recordaantal van 237 opeenvolgende weken nummer 1, tussen 2 februari 2004 en 17 augustus 2008, waarna rivaal Rafael Nadal hem afloste.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ロジャー・フェデラー（Roger Federer [ˈrɔdʒər ˈfeːdərər]、1981年8月8日 - ）は、スイス・バーゼル出身の男子プロテニス選手。身長185cm、体重85kg。右利き、バックハンド・ストロークは片手打ち。 テニスの教本のような理想的なフォームを持ち、あらゆるショットを流れるように駆使するプレースタイルから、最も完成度の高い選手と評されている。 グランドスラム男子シングルス最多優勝・歴代最長世界ランキング1位・通算獲得歴代最多賞金など数々の記録を塗り替えてきたことから、史上最高のテニスプレーヤーとの呼び声が高い。 スイス代表としても功績を残しており、北京五輪男子ダブルス金メダル、ロンドン五輪・男子シングルス銀メダル、2001年ホップマンカップ優勝、2014年デビスカップ優勝に貢献している。 スポーツの各分野で活躍した選手を称えるローレウス世界スポーツ賞を2005年から2008年にかけて4度受賞し、競技の枠を超えて高い評価を受けているスポーツ選手である。</dbo:abstract>
+    <dbo:careerPrizeMoney rdf:datatype="http://dbpedia.org/datatype/usDollar">9.7855881E7</dbo:careerPrizeMoney>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Switzerland" />
+    <dbo:height rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.85</dbo:height>
+    <dbo:plays>Right-handed (one-handed backhand)</dbo:plays>
+    <dbo:residence rdf:resource="http://dbpedia.org/resource/Switzerland" />
+    <dbo:residence rdf:resource="http://dbpedia.org/resource/Bottmingen" />
+    <foaf:homepage rdf:resource="http://rogerfederer.com" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Roger_Federer_(26_June_2009,_Wimbledon)_2_new.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Roger_Federer" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Roger_Federer_(26_June_2009,_Wimbledon)_2_new.jpg?width=300" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Switzerland" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Basel" />
+    <dbp:birthPlace xml:lang="en">Basel, Switzerland</dbp:birthPlace>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-08-08</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sports_world_record_holders" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Basel-Stadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olympic_medalists_in_tennis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hopman_Cup_competitors" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Laureus_World_Sports_Awards_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Slam_(tennis)_champions_in_men&#39;s_singles" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Australian_Open_(tennis)_champions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Wimbledon_champions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_No._1_tennis_players" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tennis_players_at_the_2008_Summer_Olympics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:US_Open_(tennis)_champions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tennis_players_at_the_2004_Summer_Olympics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Wimbledon_junior_champions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UNICEF_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tennis_players_at_the_2012_Summer_Olympics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medalists_at_the_2008_Summer_Olympics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1981_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swiss_Roman_Catholics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medalists_at_the_2012_Summer_Olympics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Roger_Federer" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olympic_tennis_players_of_Switzerland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Münchenstein" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swiss_male_tennis_players" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swiss_people_of_South_African_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olympic_silver_medalists_for_Switzerland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olympic_gold_medalists_for_Switzerland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swiss_people_of_Dutch_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swiss_people_of_French_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:French_Open_champions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_Afrikaner_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tennis_players_at_the_2000_Summer_Olympics" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">262376</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">707320285</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://rogerfederer.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rogerfederer.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rogerfedererfoundation.org/en.html" />
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-08-08</dbp:birthDate>
+    <dbp:careerprizemoney rdf:datatype="http://dbpedia.org/datatype/usDollar">9.7855881E7</dbp:careerprizemoney>
+    <dbp:height xml:lang="en">1.85 m</dbp:height>
+    <dbp:plays xml:lang="en">Right-handed</dbp:plays>
+    <dbp:residence xml:lang="en">Bottmingen, Switzerland</dbp:residence>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-tennis_player-noun-1" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tennis_at_the_2008_Summer_Olympics_–_Men&#39;s_doubles">
+    <dbo:goldMedalist rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+    <dbp:gold rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Mutua_Madrid_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_ABN_AMRO_World_Tennis_Tournament">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_BNP_Paribas_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Western_&amp;_Southern_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Switzerland_at_the_2008_Summer_Olympics">
+    <dbp:flagbearer rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+    <dbo:flagBearer rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fed">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federer_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2003_Dubai_Tennis_Championships_and_Duty_Free_Women&#39;s_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tennis_at_the_2012_Summer_Olympics_–_Men&#39;s_singles">
+    <dbo:silverMedalist rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+    <dbp:silver rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Qatar_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IMBEWU">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2004_Canada_Masters_and_the_Rogers_AT&amp;T_Cup">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2006_Rogers_Cup">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_Western_&amp;_Southern_Financial_Group_Masters_and_Women&#39;s_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_Western_&amp;_Southern_Financial_Group_Masters_and_Women&#39;s_Open">
+    <dbo:championInSingleMale rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_federer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RogFed">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlene_Federer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlene_Riva_Federer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myla_Federer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myla_Rose_Federer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darth_Federer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Federer_Foundation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swiss_Maestro">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Federer_Express">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Swiss_Maestro">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federer,_Roger">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Superduperhuman">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sneak_Attack_By_Roger">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Fedora">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Roger_Federer">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Roger_Federer" />
+  </rdf:Description>
+</rdf:RDF>
